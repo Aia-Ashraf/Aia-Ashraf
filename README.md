@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Areeb Technology**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Android new updates, Machine Learning and Team Management**
 
 - 👯 I’m looking to collaborate on **Android, Flutter, AR projects**
 
-- 🤝 I’m looking for help with **Learning ML**
+- 🤝 I’m looking for help with **Learning ML, Team Management**
 
 - 💬 Ask me about **Android, Flutter, Augmented Reality**
 

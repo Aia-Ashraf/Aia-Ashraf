@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aia Ashraf</h1>
 <h3 align="center">A passionate Mobile developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Areeb Technology**
+- 🔭 I’m currently working on **Etisalat UAE**
 
 - 🌱 I’m currently learning **Android new updates, Machine Learning and Team Management**
 

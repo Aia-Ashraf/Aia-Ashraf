@@ -129,19 +129,6 @@ alt="Email" height="30" width="40"/>
 
 ---
 
-### 📌 Featured Projects
-
-- 🚀 **RightRoute**  
-  AI-assisted trust and routing experience built for the OSF × Andela hackathon.
-
-- 📱 **Flutter & Mobile Applications**  
-  Building scalable mobile experiences with Flutter, Android, APIs, analytics, and CI/CD.
-
-- 🤖 **AI & Product Experiments**  
-  Exploring how AI can improve product discovery, decision-making, personalization, and user experiences.
-
----
-
 <p align="center">
   <i>Building products, solving problems, and occasionally convincing Git to push my code.</i>
 </p>
